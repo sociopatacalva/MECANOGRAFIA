@@ -1,0 +1,45 @@
+a {
+  color: white;
+  font-family: Verdana, Tahoma, sans-serif;
+  font-size: 20px;
+  position: fixed;
+  bottom: 1%;
+  margin: 1%;
+}
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  overflow: hidden;
+  background-image: url("TECLADO-.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+h2 {
+  color: white;
+  font-family: cursive;
+  font-style: italic;
+  margin: 1%;
+  text-align: center;
+  font-size: 15px;
+}
+p {
+  color: white;
+  font-size: 14px;
+  font-style: italic;
+  font-family: cursive;
+  margin: 1%;
+}
+h3 {
+  color: rgba(231, 119, 119, 0.906);
+  margin: 1%;
+  font-family: cursive;
+  font-style: italic;
+  font-size: 20pxpx;
+  text-align: center;
+}
+.resaltado {
+  color: rgba(231, 119, 119, 0.906);
+  font-size: 17px;
+}

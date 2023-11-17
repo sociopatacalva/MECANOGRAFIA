@@ -1,0 +1,36 @@
+h2 {
+  text-align: left;
+  color: rgba(231, 119, 119, 0.906);
+  font-weight: bold;
+  font-size: 20px;
+  font-family: cursive;
+  margin: 1%;
+}
+
+a {
+  color: rgba(231, 119, 119, 0.906);
+  font-family: Verdana, Tahoma, sans-serif;
+  font-size: 20px;
+  position: fixed;
+  bottom: 4%;
+  margin: 1%;
+}
+
+p {
+  text-align: left;
+  color: white;
+  font-size: 21px;
+  font-family: cursive;
+  font-style: italic;
+  margin: 1%;
+}
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  overflow: hidden;
+  background-image: url("TECLADO-.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}

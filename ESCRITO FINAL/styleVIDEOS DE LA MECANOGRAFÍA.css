@@ -1,0 +1,23 @@
+h1 {
+  text-align: center;
+  font-style: italic;
+  font-family: cursive;
+  color: white;
+}
+
+.video-container {
+  text-align: center;
+  margin-top: 20px;
+}
+a {
+  color: white;
+  font-family: Verdana, Tahoma, sans-serif;
+  font-size: 20px;
+  position: fixed;
+  bottom: 4%;
+  text-decoration-line: underline;
+  font-style: normal;
+}
+body {
+  background-color: black;
+}
